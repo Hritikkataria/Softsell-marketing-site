@@ -35,7 +35,7 @@ function App() {
       </main>
       <Footer />
       <Chat />
-    </div>
+      </div>
   );
 }
 

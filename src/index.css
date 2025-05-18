@@ -19,20 +19,20 @@
   
   .btn {
     @apply inline-flex items-center justify-center px-6 py-3 rounded-lg font-semibold transition-all duration-200;
-  }
-  
+}
+
   .btn-primary {
     @apply bg-gradient-to-r from-primary-500 to-primary-600 text-white hover:from-primary-600 hover:to-primary-700;
-  }
-  
+}
+
   .btn-secondary {
     @apply bg-white dark:bg-gray-800 text-gray-900 dark:text-white border border-gray-300 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-700;
-  }
-  
+}
+
   .section {
     @apply py-16 md:py-24;
-  }
-  
+}
+
   .heading {
     @apply text-4xl md:text-5xl font-bold text-gray-900 dark:text-white mb-4;
   }
@@ -49,10 +49,10 @@
   }
   50% {
     transform: translateY(-20px);
-  }
+}
   100% {
     transform: translateY(0px);
-  }
+}
 }
 
 .animate-float {
@@ -70,7 +70,7 @@
 
 ::-webkit-scrollbar-thumb {
   @apply bg-gray-300 dark:bg-gray-600 rounded-full;
-}
+  }
 
 ::-webkit-scrollbar-thumb:hover {
   @apply bg-gray-400 dark:bg-gray-500;

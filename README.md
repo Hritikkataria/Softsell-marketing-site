@@ -1,5 +1,7 @@
 # SoftSell - Software License Trading Platform
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-brightgreen?style=for-the-badge)](https://Taniya0613.github.io/SoftSell-marketing-site/)
+
 ## Overview
 
 SoftSell is a modern, single-page marketing website for a fictional company that helps users buy and sell software licenses. Built with React, Vite, Tailwind CSS, and Framer Motion, it features a clean, professional UI, responsive design, and engaging animations.
@@ -57,6 +59,7 @@ SoftSell is a modern, single-page marketing website for a fictional company that
 1. Clone the repo and run `npm install`
 2. Start the dev server with `npm run dev`
 3. Open [http://localhost:5173](http://localhost:5173) in your browser
+4. Or view the live site: [https://Taniya0613.github.io/SoftSell-marketing-site/](https://Taniya0613.github.io/SoftSell-marketing-site/)
 
 ---
 
